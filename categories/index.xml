@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Food Recipes Party - Search Engine for easy recipes and cooking tips</title>
+    <link>http://foodrecipes.party/categories/</link>
+    <description>Recent content in Categories on Food Recipes Party - Search Engine for easy recipes and cooking tips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Food Recipes Party Search Engine</copyright>
+    
+	<atom:link href="http://foodrecipes.party/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
